@@ -1,3 +1,6 @@
+import com.gildedrose.GildedRose
+import com.gildedrose.Item
+
 class GTexttestFixture {
 
     static void main(String[] args) {
