@@ -38,6 +38,8 @@ Setup
 
 The functioning of the existing code is covered by `GuildedRoseTest`. Make sure that this test will always pass.
 
+Build and verify the project using [Maven](http://maven.apache.org) with `mvn clean verify`.
+
 Credits
 -------
 
